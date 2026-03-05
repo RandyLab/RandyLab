@@ -4,9 +4,15 @@
 - 👨‍🎓 Student.
 - 📢 I Like Teaming Up.
 - 🤝 Love collaborating.
-- 💡 Always Learning
+- 💡 Always Learning.
 
 ## 🚀 Current Projects
+
+### Project Portofolio
+- **Description**: Projek personal branding tugas.
+- **GitHub**: [RandyLab/portofolio-andal](https://github.com/RandyLab/portofolio-andal.git)
+- **Live Demo**: (Belum tersedia)
+- **Tech Stack**: Vite, React, TypeScript
 
 ### Project Akhir PKL
 - **Description**: Final internship project
@@ -19,7 +25,7 @@
 - **GitHub**: [RandyLab/project-game](https://github.com/RandyLab/project-game)
 - **Status**: In Development
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RandyLab&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
