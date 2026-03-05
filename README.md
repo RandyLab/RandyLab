@@ -1,10 +1,10 @@
 <h1 align="center">👋 Hey there! I am RandyLab</h1>
 
 ## 📋 About Me
-- 👨‍🎓 Student
-- 🤝 I Like Teaming Up: Love collaborating.
+- 👨‍🎓 Student.
+- 📢 I Like Teaming Up.
+- 🤝 Love collaborating.
 - 💡 Always Learning
-- 🌟 Fun Fact: I'm lazy.
 
 ## 🚀 Current Projects
 
