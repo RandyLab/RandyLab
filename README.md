@@ -1,57 +1,47 @@
 <h1 align="center">👋 Hey there! I am RandyLab</h1>
- 
-👨‍🎓 Student
 
-🤝 I Like Teaming Up:
-Love collaborating.
+## 📋 About Me
+- 👨‍🎓 Student
+- 🤝 I Like Teaming Up: Love collaborating.
+- 💡 Always Learning
+- 🌟 Fun Fact: I'm lazy.
 
-💡 Always Learning
-
-🌟 Fun Fact:
-I'm lazy.
-
----
-
-## <a href="#"><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDhmY2dqZGludXV6MWxweHBoM3Y3MTR5YXpoZjNvbDEyMGw2YWNiNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/mbs9NdsG5vjiutXPdT/giphy.gif" width="70"></a> Current Project:
+## 🚀 Current Projects
 
 ### Project Akhir PKL
-- [Github](https://github.com/RandyLab/Project-Akhir-PKL.git)
-- [Preview](https://randylab.github.io/pustipada/)
-
+- **Description**: Final internship project
+- **GitHub**: [RandyLab/Project-Akhir-PKL](https://github.com/RandyLab/Project-Akhir-PKL.git)
+- **Live Demo**: [pustipada](https://randylab.github.io/pustipada/)
+- **Tech Stack**: HTML, CSS, JavaScript
 
 ### Project Game
-- [Github]()
+- **Description**: Game development project
+- **GitHub**: [RandyLab/project-game](https://github.com/RandyLab/project-game)
+- **Status**: In Development
 
+## 📊 GitHub Stats
 
-## <a href="#"><img src="https://media0.giphy.com/media/RgutegYIHk2Nhxj4m5/giphy.gif?cid=ecf05e47jzd3yw52pkqppt29ei31rqs67tv5omw8ntwi4vx2&ep=v1_stickers_search&rid=giphy.gif&ct=s" alt="GIF" width="70"/></a> GitHub Stats:
-<a href="#">
- 
-![](https://github-readme-stats.vercel.app/api?username=Randylab&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=RandyLab&theme=dark&hide_border=false)<br/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RandyLab&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
-## Languages Used:
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RandyLab&theme=dark&hide_border=false)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RandyLab&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 🛠️ Tech Stack
 
-</a>
+### Languages
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 
----
+### Frontend & Tools
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 
-## GitHub Trophies:
-<a href="#">
- 
-![](https://github-profile-trophy.vercel.app/?username=RandyLab&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
-
-</a>
-
----
-
-### <a href="#"><img src="https://media4.giphy.com/media/gcaTCGlsdmTajMK27m/giphy.gif?cid=ecf05e47kn8j9mfutbunecqfa8a80smg6lw7ppnc459ozuo2&ep=v1_stickers_search&rid=giphy.gif&ct=ts" alt="GIF" width="70"/></a> Dev Quote:
-
-Kurang kurangi pake AI <h6>-King Nonok</h6>
-
-<p align="center">
-<a href="#">
-<img src="https://komarev.com/ghpvc/?username=RandyLab&style=for-the-badge">
-</a>
-</p>
+## 📫 Connect With Me
+- GitHub: [@RandyLab](https://github.com/RandyLab) 
