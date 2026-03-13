@@ -11,7 +11,7 @@
 ### Project Portofolio
 - **Description**: Projek personal branding tugas.
 - **GitHub**: [RandyLab/portofolio-andal](https://github.com/RandyLab/portofolio-andal.git)
-- **Live Demo**: (Belum tersedia)
+- **Live Demo**: [Portofolio Andal](https://portofoliobgn.netlify.app/)
 - **Tech Stack**: Vite, React, TypeScript
 
 ### Project Akhir PKL
